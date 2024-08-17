@@ -1,7 +1,10 @@
 # 2024
 ## August
+* [Hacker leaked american SSNs of virtually every US citizen](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/) (330 mil. population vs. 2.7 billion records leaked. Dublicated entries explain this)
+    * the SSN is tied to a person from birth and can not be changed. It's used to loans, credits and more
+    * if you are affected, make sure to watch your finances and consider e.g. freezing credit
 * [Zero-Click, unauthenticated RCE in IPv6 implementation of Windows](https://www.cybermaxx.com/resources/cve-2024-38063/)
-   * [Heavy classification from MS](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-38063)
+    * [Heavy classification from MS](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-38063)
 
 
 ## Remember for 2024
