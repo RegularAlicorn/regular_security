@@ -1,5 +1,6 @@
 # 2024
 ## August
+* [RCE in SolarWinds Web Helpdesk](https://nvd.nist.gov/vuln/detail/CVE-2024-28986). They "couldn't reproduce unauthenticated access". Sure, let's believe them.
 * !: [Windows TCP/IP v6 remote exploitation](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063). Wormable.
 * Another heavy Ivanti Issue, this time in [Virtual Traffic Manager](https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Virtual-Traffic-Manager-vTM-CVE-2024-7593?language=en_US)  
 Apparently you can modify with at least sudo privileges on Unix-OS level from outside.
