@@ -1,5 +1,7 @@
 # 2024
 ## August
+* Another heavy Ivanti Issue, this time in [Virtual Traffic Manager](https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Virtual-Traffic-Manager-vTM-CVE-2024-7593?language=en_US)  
+Apparently you can modify with at least sudo privileges on Unix-OS level from outside.
 * [Hacker leaked american SSNs of virtually every US citizen](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/) (330 mil. population vs. 2.7 billion records leaked. Dublicated entries explain this)
     * the SSN is tied to a person from birth and can not be changed. It's used to loans, credits and more
     * if you are affected, make sure to watch your finances and consider e.g. freezing credit
