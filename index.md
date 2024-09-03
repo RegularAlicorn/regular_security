@@ -1,4 +1,14 @@
 # 2024
+## September
+* [These findings by RAND](https://www.rand.org/pubs/research_reports/RRA2680-1.html) also apply to companies selling you their AI (which includes security companies). The general issue "human factor" remains unsolved.
+
+> Five leading root causes of the failure of AI projects were identified
+> * First, industry stakeholders often misunderstand — or miscommunicate — what problem needs to be solved using AI.
+> * Second, many AI projects fail because the organization lacks the necessary data to adequately train an effective AI model.
+> * Third, in some cases, AI projects fail because the organization focuses more on using the latest and greatest technology than on solving real problems for their intended users.
+> * Fourth, organizations might not have adequate infrastructure to manage their data and deploy completed AI models, which increases the likelihood of project failure.
+> * Finally, in some cases, AI projects fail because the technology is applied to problems that are too difficult for AI to solve.
+
 ## August
 * [RCE in SolarWinds Web Helpdesk](https://nvd.nist.gov/vuln/detail/CVE-2024-28986). They "couldn't reproduce unauthenticated access". Sure, let's believe them.
 * !: [Windows TCP/IP v6 remote exploitation](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063). Wormable.
