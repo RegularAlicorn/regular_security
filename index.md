@@ -1,5 +1,9 @@
 # 2024
 ## September
+* [Kibana ](https://securityonline.info/critical-kibana-flaws-cve-2024-37288-cve-2024-37285-expose-systems-to-arbitrary-code-execution/)
+     * yaml deserialization error in amazon bedrock connector
+     * yaml deserialization vulnerability allowing RCE. Requires some pre-owned privileges
+* DoS attack and possible unauthenticated resource access for [Sonic Firewalls](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0015). **Go update!**
 * [These findings by RAND](https://www.rand.org/pubs/research_reports/RRA2680-1.html) also apply to companies selling you their AI (which includes security companies). The general issue "human factor" remains unsolved.
 
 > Five leading root causes of the failure of AI projects were identified
